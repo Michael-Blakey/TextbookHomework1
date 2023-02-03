@@ -1,3 +1,13 @@
+/**
+ * @class: MaleStudent
+ * @author: Michael Blakey
+ * @course: ITEC2148 - 05, Spring 2023
+ * @version: 1.0
+ * @date: February 2, 2023
+ *
+ *
+ *
+ */
 public class MaleStudent {
     public static void main(String [] args){
         int total_students = 389;
