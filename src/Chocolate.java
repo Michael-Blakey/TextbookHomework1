@@ -1,9 +1,9 @@
 /**
- * Class Name: Speedlight
+ * Class Name: Chocolate
  * Author: Michael Blakey
  * Version: 1.0
  * Course: ITEC 2140 Section 01 Spring 2023
- * Date: 26 January 2023
+ * Date:  February 2, 2023
  */
 
 
@@ -17,6 +17,7 @@ public class Chocolate {
         int Bars_to_fill_bags = 3;
         int Chocolate_bars_total = BagsOfChocolate * Chocolate_in_Each_Bag;
         int Number_of_bags_for_three_bars_each = Chocolate_bars_total / Bars_to_fill_bags;
+        //Total bags that are needed for all the chocolate bars.
         System.out.println("Bags of Chocolate:" + BagsOfChocolate);
         System.out.println("# of bars in bag:" + Chocolate_in_Each_Bag);
         System.out.println("# of bars to fill bag:" + Bars_to_fill_bags);
