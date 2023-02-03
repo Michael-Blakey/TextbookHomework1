@@ -1,6 +1,7 @@
 /**
  * Class Name: Speedlight
  * Author: Michael Blakey
+ * @course: ITEC2148 - 05, Spring 2023
  * Version: 1.0
  * Date: 26 January 2023
  */
